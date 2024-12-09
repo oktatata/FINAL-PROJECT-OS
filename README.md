@@ -8,10 +8,10 @@ Membuat Layanan Web Server di **Ubuntu Desktop 22.04.3** dengan spesifikasi beri
 ## Daftar Isi
 1. [1. Web Server (Apache)](#1-web-server-apache)
 2. [2. PHP](#2-php)
-3. [3. Samba](#3-samba)
+3. [3. MYSQL(#3-mysql)
 4. [4. SSH Server](#4-ssh-server)
 5. [5. FTP Server (vsftpd)](#5-ftp-server-vsftpd)
-6. [6. Proxy Server (Squid)](#6-proxy-server-squid)
+   
 
 ---
 
