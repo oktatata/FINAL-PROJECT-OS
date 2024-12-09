@@ -25,7 +25,7 @@ sudo apt install apache2 -y
 ### 1.2 Konfigurasi Apache
 Langkah 2: Periksa status Apache
 ```
-sudo service apache2 status
+sudo systemctl status apache2
 ```
 Langkah 3: Izinkan port 80 
 ```
@@ -38,13 +38,14 @@ https://server-ip-address
 ![Hasil](fp/hasilapache.png)
 ## 2. PHP
 Penjelasan tentang instalasi PHP
-### 1.2 Install 
-Langkah 1: Install Apache
+### 1.1 Install PHP
+Langkah 1: Install php
 ```
-sudo apt install apache2 -y
+sudo apt install php
 ```
-### 1.2 Konfigurasi Apache
-Langkah 2: Periksa status Apache
+Langkah 2: Menjalankan Skrip php di apache
+```
+sudo apt install libapache2-mod-php -y
 ```
 sudo service apache2 status
 ```
