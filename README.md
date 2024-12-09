@@ -37,3 +37,83 @@ https://server-ip-address
 ```
 ![Hasil](fp/hasilapache.png)
 ## 2. PHP
+Penjelasan tentang instalasi PHP
+### 1.2 Install 
+Langkah 1: Install Apache
+```
+sudo apt install apache2 -y
+```
+### 1.2 Konfigurasi Apache
+Langkah 2: Periksa status Apache
+```
+sudo service apache2 status
+```
+Langkah 3: Izinkan port 80 
+```
+sudo ufw allow 80/tcp
+```
+Langkah 4: Buka browser dan akses 
+```
+https://server-ip-address
+```
+![Hasil](fp/hasilapache.png)
+Penjelasan tentang instalasi dan konfigurasi Web Server (Apache).
+### 1.1 Install Apache
+Langkah 1: Install Apache
+```
+sudo apt install apache2 -y
+```
+### 1.2 Konfigurasi Apache
+Langkah 2: Periksa status Apache
+```
+sudo service apache2 status
+```
+Langkah 3: Izinkan port 80 
+```
+sudo ufw allow 80/tcp
+```
+Langkah 4: Buka browser dan akses 
+```
+https://server-ip-address
+```
+![Hasil](fp/hasilapache.png)
+Penjelasan tentang instalasi dan konfigurasi Web Server (Apache).
+### 1.1 Install Apache
+Langkah 1: Install Apache
+```
+sudo apt install apache2 -y
+```
+### 1.2 Konfigurasi Apache
+Langkah 2: Periksa status Apache
+```
+sudo service apache2 status
+```
+Langkah 3: Izinkan port 80 
+```
+sudo ufw allow 80/tcp
+```
+Langkah 4: Buka browser dan akses 
+```
+https://server-ip-address
+```
+![Hasil](fp/hasilapache.png)
+Penjelasan tentang instalasi dan konfigurasi Web Server (Apache).
+### 1.1 Install Apache
+Langkah 1: Install Apache
+```
+sudo apt install apache2 -y
+```
+### 1.2 Konfigurasi Apache
+Langkah 2: Periksa status Apache
+```
+sudo service apache2 status
+```
+Langkah 3: Izinkan port 80 
+```
+sudo ufw allow 80/tcp
+```
+Langkah 4: Buka browser dan akses 
+```
+https://server-ip-address
+```
+![Hasil](fp/hasilapache.png)
