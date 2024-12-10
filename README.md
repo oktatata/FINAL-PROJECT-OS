@@ -35,7 +35,7 @@ Langkah 4: Buka browser dan akses
 ```
 https://server-ip-address
 ```
-![Hasil](fp/hasilapache.png)
+![Hasil](apacheokta.png)
 ## 2. PHP
 Penjelasan tentang instalasi PHP
 ### 1.2 Install PHP
