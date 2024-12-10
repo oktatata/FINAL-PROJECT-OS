@@ -82,7 +82,7 @@ GRANT ALL PRIVILEGES ON Healthy_Food.* TO 'webuser'@'localhost';
 FLUSH PRIVILEGES;
 ```
 
-![Hasil](fp/hasilapache.png)
+![Hasil](phpokta.png)
 ## 4 Install Openssh-server(Remote Access)
 Penjelasan tentang instalasi Openssh
 ### 1.1 Install Openssh
