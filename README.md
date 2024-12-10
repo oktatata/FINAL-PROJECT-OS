@@ -361,4 +361,6 @@ footer {
 }
 
 ```
+![Hasil](htmlokta1.png)
+![Hasil](htmlokta2.png)
  
