@@ -1,0 +1,57 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin-top: 70px; /* Untuk menghindari navbar fixed-top menutupi konten */
+}
+
+header {
+    background: url('https://media.licdn.com/dms/image/D4D12AQEHujGYFVdLAQ/article-cover_image-shrink_720_1280/0/1680816088965?e=2147483647&v=beta&t=y-kE951-gWpM706fz7DNYmAZqap-O4QoXZ9HfepeZlQ') no-repeat center center/cover;
+    height: 300px;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    animation: fadeIn ease-in-out 2s;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover img {
+    transform: scale(1.1);
+}
+
+.card {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
